@@ -15,5 +15,5 @@ var clickOne =
 });
 
 
-document.querySelector("#eren").onclick = clickOne.play;
+document.querySelector('#eren').onclick = clickOne.play;
 
